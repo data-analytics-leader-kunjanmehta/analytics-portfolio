@@ -41,3 +41,8 @@ Launch promotional campaigns for lower-performing products
 3️⃣ Inventory Monitoring
 
 Inventory levels indicate possible stock imbalance across distributors, highlighting the need for improved inventory forecasting and replenishment planning.
+
+Sales Trend Analysis
+
+Trend analysis helps identify sales fluctuations over time.
+This allows businesses to detect growth patterns, seasonality, and sudden drops in performance, enabling faster strategic response.
