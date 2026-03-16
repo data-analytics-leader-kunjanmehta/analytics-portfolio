@@ -46,3 +46,15 @@ Sales Trend Analysis
 
 Trend analysis helps identify sales fluctuations over time.
 This allows businesses to detect growth patterns, seasonality, and sudden drops in performance, enabling faster strategic response.
+
+Distributor Segmentation Analysis
+
+Distributor segmentation helps identify which distribution partners contribute the most revenue.
+
+This enables businesses to:
+
+Focus sales enablement on high-value distributors
+
+Identify underperforming regions or partners
+
+Optimize channel strategy
