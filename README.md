@@ -18,7 +18,7 @@ Projects will include:
 
 - Business Insights
 
-1️⃣ Regional Sales Performance
+**Regional Sales Performance**
 
 Sales analysis shows that the North and South regions contribute the highest revenue, indicating stronger distributor penetration and customer demand in these markets.
 
@@ -28,7 +28,7 @@ Expanding distributor networks in high-performing regions
 
 Replicating successful sales strategies in lower-performing regions
 
-2️⃣ Product Performance
+**Product Performance**
 
 Shampoo appears to generate the highest sales revenue, indicating stronger consumer preference.
 
@@ -38,16 +38,16 @@ Increase inventory allocation for high-performing SKUs
 
 Launch promotional campaigns for lower-performing products
 
-3️⃣ Inventory Monitoring
+**Inventory Monitoring**
 
 Inventory levels indicate possible stock imbalance across distributors, highlighting the need for improved inventory forecasting and replenishment planning.
 
-Sales Trend Analysis
+**Sales Trend Analysis**
 
 Trend analysis helps identify sales fluctuations over time.
 This allows businesses to detect growth patterns, seasonality, and sudden drops in performance, enabling faster strategic response.
 
-Distributor Segmentation Analysis
+**Distributor Segmentation Analysis**
 
 Distributor segmentation helps identify which distribution partners contribute the most revenue.
 
@@ -58,3 +58,13 @@ Focus sales enablement on high-value distributors
 Identify underperforming regions or partners
 
 Optimize channel strategy
+
+**Sales Forecasting (Predictive Analytics)**
+
+To explore predictive analytics, a simple forecasting model was built using Linear Regression.
+
+Objective:
+
+Predict future sales based on historical patterns.
+
+This demonstrates how analytics can move from descriptive insights to predictive decision support.
